@@ -1,0 +1,4 @@
+baseURL = 'https://doughnutnz.github.io/learn-hugo/'
+languageCode = 'en-us'
+title = "Doug's New Hugo Site - Staging"
+publishDir = "docs"

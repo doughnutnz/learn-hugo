@@ -1,0 +1,4 @@
+baseURL = 'https://dazzling-curran-c212c7.netlify.app/'
+languageCode = 'en-us'
+title = "Doug's New Hugo Site - Production"
+publishDir = "public"
